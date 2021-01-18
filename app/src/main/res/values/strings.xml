@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Decision Maker</string>
+    <string name="noCategoryText">Click the \'+\' to get started!</string>
+</resources>
